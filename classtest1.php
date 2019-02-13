@@ -6,7 +6,7 @@
  * Time: 11:46
  */
 
-namespace gin;
+namespace gin\testgin;
 
 class classtest1
 {
