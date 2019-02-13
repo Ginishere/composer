@@ -8,10 +8,10 @@
 
 namespace gin;
 
-class classtest
+class classtest1
 {
     static public function test1()
     {
-        echo 11112222;
+        echo 111111111;
     }
 }
