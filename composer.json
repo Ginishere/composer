@@ -1,5 +1,5 @@
 {
-  "name": "gin/test",
+  "name": "gin",
   "description": "php library for gin",
   "require": {
     "php": ">=5.3.7"
