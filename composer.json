@@ -1,5 +1,5 @@
 {
-  "name": "gin de rouyuan",
+  "name": "ginishere/composer",
   "description": "php library for gin",
   "require": {
     "php": ">=5.3.7"
